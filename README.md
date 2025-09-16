@@ -8,6 +8,10 @@ This guide is born from that unique intersection of opportunity and complexity. 
 
 The core philosophy of this work is that for this demographic, building wealth is about more than just accumulating assets. It is about architecting a financial life that is resilient to immigration uncertainties, bridges the cultural gap between a "family-focused" Indian mindset and an "individual-focused" American one, and ultimately, builds a lasting legacy for the next generation. This journey requires a deliberate, multi-stage approach. This guide is structured to mirror that journey, moving from the foundational steps of establishing a financial life in America to the advanced strategies required for long-term, cross-border wealth management. It is a blueprint for transforming ambition into abundance, one strategic financial decision at a time.
 
+## Who is this for?
+
+Whether you're a grizzled investment veteran or a student that just kicked off your journey in the USA, you might find something interesting in here. I accept push requests. Please feel free to add any information that you may find valuable.
+
 ---
 
 # Part I: The Foundation - Setting Up Your Financial Life in America
