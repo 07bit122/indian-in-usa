@@ -10,7 +10,7 @@ The core philosophy of this work is that for this demographic, building wealth i
 
 ## Who is this for?
 
-Whether you're a grizzled investment veteran or a student that just kicked off your journey in the USA, you might find something interesting in here. I accept push requests. Please feel free to add any information that you may find valuable.
+Whether you're a grizzled investment veteran or a student that just kicked off your journey in the USA, you might find something interesting in here. I accept push requests. Please feel free to add any information that you think would benefit other desis in the US.
 
 ---
 
